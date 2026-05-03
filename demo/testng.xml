@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SauceDemo Test Suite" verbose="1">
+    <test name="Desafio Tests">
+        <classes>
+            <class name="com.saucedemo.Test_Desafio1_E1B"/>
+            <class name="com.saucedemo.Test_Desafio2_E1"/>
+            <class name="com.saucedemo.Test_Desafio3_E1"/>
+            <class name="com.saucedemo.Test_Desafio3_E3"/>
+        </classes>
+    </test>
+</suite>

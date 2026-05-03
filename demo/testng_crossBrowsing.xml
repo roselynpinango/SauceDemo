@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CrossBrowserSuite" verbose="1">
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.saucedemo.Test_Desafio4_E1"/>
+        </classes>
+    </test>
+    <test name="FirefoxTest">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.saucedemo.Test_Desafio4_E1"/>
+        </classes>
+    </test>
+</suite>

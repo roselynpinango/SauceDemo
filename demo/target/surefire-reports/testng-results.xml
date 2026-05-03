@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-03T15:38:10 ART" name="CrossBrowserSuite" finished-at="2026-05-03T15:38:19 ART" duration-ms="8548">
+    <groups>
+    </groups>
+    <test started-at="2026-05-03T15:38:10 ART" name="ChromeTest" finished-at="2026-05-03T15:38:13 ART" duration-ms="3319">
+      <class name="com.saucedemo.Test_Desafio4_E1">
+        <test-method is-config="true" signature="setupMethod(java.lang.String)[pri:0, instance:com.saucedemo.Test_Desafio4_E1@44ebcd03]" started-at="2026-05-03T15:38:10 ART" name="setupMethod" finished-at="2026-05-03T15:38:12 ART" duration-ms="2127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="testGenerarOrden()[pri:0, instance:com.saucedemo.Test_Desafio4_E1@44ebcd03]" started-at="2026-05-03T15:38:12 ART" name="testGenerarOrden" finished-at="2026-05-03T15:38:13 ART" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGenerarOrden -->
+        <test-method is-config="true" signature="teardownMethod()[pri:0, instance:com.saucedemo.Test_Desafio4_E1@44ebcd03]" started-at="2026-05-03T15:38:13 ART" name="teardownMethod" finished-at="2026-05-03T15:38:13 ART" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethod -->
+      </class> <!-- com.saucedemo.Test_Desafio4_E1 -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2026-05-03T15:38:13 ART" name="FirefoxTest" finished-at="2026-05-03T15:38:19 ART" duration-ms="5219">
+      <class name="com.saucedemo.Test_Desafio4_E1">
+        <test-method is-config="true" signature="setupMethod(java.lang.String)[pri:0, instance:com.saucedemo.Test_Desafio4_E1@5c6648b0]" started-at="2026-05-03T15:38:13 ART" name="setupMethod" finished-at="2026-05-03T15:38:17 ART" duration-ms="3853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="testGenerarOrden()[pri:0, instance:com.saucedemo.Test_Desafio4_E1@5c6648b0]" started-at="2026-05-03T15:38:17 ART" name="testGenerarOrden" finished-at="2026-05-03T15:38:18 ART" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGenerarOrden -->
+        <test-method is-config="true" signature="teardownMethod()[pri:0, instance:com.saucedemo.Test_Desafio4_E1@5c6648b0]" started-at="2026-05-03T15:38:18 ART" name="teardownMethod" finished-at="2026-05-03T15:38:19 ART" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethod -->
+      </class> <!-- com.saucedemo.Test_Desafio4_E1 -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- CrossBrowserSuite -->
+</testng-results>

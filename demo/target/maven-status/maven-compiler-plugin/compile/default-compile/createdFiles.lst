@@ -1,0 +1,6 @@
+com\saucedemo\LoginPage.class
+com\saucedemo\CheckoutPage.class
+com\saucedemo\App.class
+com\saucedemo\ProductsPage.class
+com\saucedemo\CartPage.class
+utils\ExcelReader$1.class
