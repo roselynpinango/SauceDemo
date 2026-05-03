@@ -6,6 +6,7 @@
             <class name="com.saucedemo.Test_Desafio2_E1"/>
             <class name="com.saucedemo.Test_Desafio3_E1"/>
             <class name="com.saucedemo.Test_Desafio3_E3"/>
+            <class name="com.saucedemo.Test_Desafio6_E1B"/>
         </classes>
     </test>
 </suite>
